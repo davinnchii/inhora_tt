@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/inhora_tt/static/css/main.ddd33b94.css",
+    "main.js": "/inhora_tt/static/js/main.bd5b373e.js",
+    "index.html": "/inhora_tt/index.html",
+    "main.ddd33b94.css.map": "/inhora_tt/static/css/main.ddd33b94.css.map",
+    "main.bd5b373e.js.map": "/inhora_tt/static/js/main.bd5b373e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddd33b94.css",
+    "static/js/main.bd5b373e.js"
+  ]
+}
